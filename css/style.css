@@ -1,0 +1,31 @@
+body {
+    font-style: Verdana;
+    max-width: auto;
+    
+}
+.navbar {
+    background: #71372B;
+}
+
+.quem-sou {
+    background: #BF5843
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.parceiros {
+    background: #e59380;
+}
+
+.serviços {
+    background: #ddbdb7;
+}
+
+.bg-about {
+    background: #664b46;
+    margin: auto;
+    color: black
+}
